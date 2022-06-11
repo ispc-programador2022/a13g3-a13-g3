@@ -1,4 +1,4 @@
-Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
-Proyecto Integrador
-Aula 13 Grupo 3
+TECNICATURA EN CIENCIAS DE DATOS E INTELIGENCIA ARTIFICIAL
+BIENVENIDOS AL AULA 13-GRUPO 3 2022
+Colaboradores
 
