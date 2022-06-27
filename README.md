@@ -4,4 +4,5 @@
 * Toñares Franco  
 * Tamietto Sergio  
 * Toro Gutierrez Luciano
-
+* Adrian Sequeira
+* Javier Sinde
